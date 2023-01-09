@@ -4,15 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./src/main.js"
+    "start": "node ./src/main.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "Dependencies": {
-    "nodemon": "^2.0.20"
-  },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
   }
 }
